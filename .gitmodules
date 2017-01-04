@@ -1,0 +1,3 @@
+[submodule "npmenv"]
+	path = npmenv
+	url = http://github.com/trevorijones/npmenv.git
